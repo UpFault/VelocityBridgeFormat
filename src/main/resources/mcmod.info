@@ -1,14 +1,14 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "VelocityFormatter",
+    "description": "Here's a Stupidly Long Description.\nVelocityBridgeFormat is a Minecraft modification dedicated to enhancing the messaging experience within 'The Velocity' guild. This mod introduces a range of innovative formatting features, transforming mundane messages into captivating visual presentations. By seamlessly integrating into the guild's communication channels, VelocityBridgeFormat elevates the overall quality of interactions, making every exchange a delight for guild members. Say goodbye to bland text and embrace a new era of aesthetically pleasing and engaging communication with VelocityBridgeFormat.",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/UpFault/VelocityBridgeFormat",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "UpFault"
     ],
     "credits": "",
     "logoFile": "",
